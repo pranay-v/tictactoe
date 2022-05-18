@@ -1,0 +1,9 @@
+.details-wrapper{
+    margin-left:25%;
+    margin-right: 25%;
+    /*margin-top:1%;*/
+    padding:0.5;
+   color:rgb(218, 15, 15);
+   font-weight: bold;
+   text-align: center;
+}
